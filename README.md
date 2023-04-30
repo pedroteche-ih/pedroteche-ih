@@ -17,22 +17,13 @@
  <a href = "mailto: pedrotechel@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroteche-ih&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pedroteche-ih&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<p align="center"> <h1>Open Data Portfolio</h1></p>
+<a href="https://github.com/pedroteche-ih/nyc_crime"></a> 
+<p align= "center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroteche-ih&show_icons=true&locale=en&layout=compact&theme=gruvbox_light" alt="ovi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroteche-ih&show_icons=true&locale=en&theme=gruvbox_light" alt="ovi" width="410" /></p>
 
-<hr>
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=pedroteche-ih&theme=juicyfresh&no-bg=true" />
-
-
------
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
-
-Last Edited on: 17/04/2021
+Last Edited on: 30/04/2023
 
 
 
