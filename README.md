@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pedroteche-ih/pedroteche-ih/blob/main/images/banner_2.jpg?raw=true" height="400"/>
+  <img src="https://github.com/pedroteche-ih/pedroteche-ih/blob/main/images/banner_3.png?raw=true" height="400"/>
 </p>
 <br>
 
