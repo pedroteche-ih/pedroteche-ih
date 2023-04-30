@@ -17,8 +17,13 @@
  <a href = "mailto: pedrotechel@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
-<p align="center"> <h1>Open Data Portfolio</h1></p>
-<a href="https://github.com/pedroteche-ih/nyc_crime"></a> 
+<p align="center"> <h1 align="center">Open Data Portfolio</h1></p>
+<a href="https://github.com/pedroteche-ih/nyc_crime"><b>Large Dataset Clustering on Spatiotemporal Features</b> </a>: finding crime hotspots in Brooklyn, NY and analyzing their evolution and distribution within the urban cityscape;
+<br>
+<p align="center"> <h1 align="center">Teaching Portfolio - lecture note(book)s</h1></p>
+<a href="https://github.com/pedroteche-ih/WEBINAR_SPOTIFY"><b> Introductory Python for Data Analysis</b></a>: Notes for a Live Coding Webinar showcasing the Spotify API and basic Python programming for data analysis and visualization;
+<br>
+<p align="center"> <h1 align="center">Git Stats</h1></p>
 <p align= "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroteche-ih&show_icons=true&locale=en&layout=compact&theme=gruvbox_light" alt="ovi" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroteche-ih&show_icons=true&locale=en&theme=gruvbox_light" alt="ovi" width="410" /></p>
