@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/Lives-Brazil-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-brightgreen" />
 </p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I am Pedro Teche </h1>
-<h3 align="center">Data Scientist </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/pedro-teche/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/pedrotecheih" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
