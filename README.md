@@ -20,6 +20,8 @@
 <p align="center"> <h1 align="center">Open Data Portfolio</h1></p>
 <a href="https://github.com/pedroteche-ih/nyc_crime"><b>Large Dataset Clustering on Spatiotemporal Features</b> </a>: finding crime hotspots in Brooklyn, NY and analyzing their evolution and distribution within the urban cityscape;
 <br>
+<b> WIP Using Deep Learning to build a recommendation system from Product Images </b> <br>
+<b> WIP Modelling Vulture (Gyps Africanus) behavior using Hidden Markov Models (HMMs) </b> <br>
 
 <p align="center"> <h1 align="center">Teaching Portfolio - lecture note(book)s</h1></p>
 <a href="https://github.com/pedroteche-ih/WEBINAR_SPOTIFY"><b> Introductory Python for Data Analysis</b></a>: Notes for a Live Coding Webinar showcasing the Spotify API and basic Python programming for data analysis and visualization;<br>
