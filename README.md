@@ -18,7 +18,7 @@
 </p>
 </p>
 <p align="center"> <h1 align="center">Open Data Portfolio</h1></p>
-<a href="https://github.com/pedroteche-ih/nyc_crime"><b>Large Dataset Clustering on Spatiotemporal Features</b> </a>: finding crime hotspots in Brooklyn, NY and analyzing their evolution and distribution within the urban cityscape;
+<a href="https://github.com/pedroteche-ih/nyc_crime"><b>Large Dataset Clustering on Spatiotemporal Features</b></a>: finding crime hotspots in Brooklyn, NY and analyzing their evolution and distribution within the urban cityscape;
 <br>
 <b> WIP Using Deep Learning to build a recommendation system from Product Images </b> <br>
 <b> WIP Modelling Vulture (Gyps Africanus) behavior using Hidden Markov Models (HMMs) </b> <br>
@@ -28,11 +28,8 @@
 <a href="https://github.com/pedroteche-ih/WEBINAR_SPOTIFY"><b> Introductory Python for Data Analysis</b></a>: Notes for a Live Coding Webinar showcasing the Spotify API and basic Python programming for data analysis and visualization;<br>
 <a href="https://github.com/pedroteche-ih/Aulas-Base---DA-v2"><b> Notes for an Bootcamp on Python Programming and Data Analysis</b></a>: <i>(in Portuguese)</i> Notes for a Data Analytics bootcamp - from writing your first lines of Python code to Machine Learning with SKLEARN;
 <br>
-
-
-
 <p align="center"> <h1 align="center">Musical Musings</h1></p>
-<a href="https://github.com/pedroteche-ih/CROW_CHANTS"><b> Generative music & other musings for the Crow <b></a>: Lua scripts for the Monome Crow, a programmable Eurorack Module. Most scripts are focused on Microtonal music and generative music!
+<a href="https://github.com/pedroteche-ih/CROW_CHANTS"><b> Generative music & other musings for the Crow<b></a>: Lua scripts for the Monome Crow, a programmable Eurorack Module. Most scripts are focused on Microtonal music and generative music!
 <br>
 <p align="center"> <h1 align="center">Git Stats</h1></p>
 <p align= "center">
