@@ -22,7 +22,7 @@
 <br>
 <a href="https://github.com/pedroteche-ih/whale-movement"><b>Analyzing Bowhead Whale movement in Foxe Basin using Unsupervised Learning</b></a>: using unsupervised learning to map and understand Bowhead Whale movement patterns in Foxe Basin;
 <br>
-<a href="https://github.com/pedroteche-ih/maize-crop-diagnose"><b>Automatic Diagnose of Maize Diseases from Leaf Photographs</b></a>: using a simple ANN in Tensorflow to identify lethal necrosis (MLN) & streak virus (MSV);
+<a href="https://github.com/pedroteche-ih/maize-crop-diagnose"><b>Automatic Diagnose of Maize Diseases from Leaf Photographs</b></a>: using a simple ANN in Tensorflow to identify lethal necrosis (MLN) & streak virus (MSV); <br>
 <b> WIP Using Deep Learning to build a recommendation system from Product Images </b> <br>
 <b> WIP Modelling Vulture (Gyps Africanus) behavior using Hidden Markov Models (HMMs) </b> <br>
 <b> WIP Simulating Emergent Behavior in a Direct Sales company using ABM and Monte Carlo simulations </b> <br>
